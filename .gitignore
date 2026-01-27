@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Environment variables (Crucial for security!)
+.env
+
+# Data and large files
+data/
+*.csv
+*.npy
+*.pth
